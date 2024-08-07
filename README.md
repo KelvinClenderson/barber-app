@@ -1,12 +1,10 @@
 - [x]Setup do banco
 - [x] Seeding do banco (Colocar dados no banco)
 - [x] Introdução ao Next.js
-- [] Tailwind e Shadcn
-- [] Git Hooks
+- [x] Tailwind e Shadcn
+- [x] Git Hooks
 
 ## Getting Started
-
-First, run the development server:
 
 ```bash
 npm run dev
